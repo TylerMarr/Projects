@@ -14,6 +14,9 @@ This project is an Arduino-powered security alarm system that detects thieves an
 - Learn how to combine a multitude of circuit components, such as Ultrasonic sensor, LCD display, buzzer, and IR receiver
 - Develop problem-solving skills in overcoming both hardware limitations and software challenges
 
+## Challenges and Solutions
+- uhhh
+
 ## Hardware Used
 - Arduino Uno
 - Ultrasonic sensor (HC-SR04)
