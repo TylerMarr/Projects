@@ -4,9 +4,9 @@ Welcome! I'm an undergrad EE student at UIUC with experience in Arduino developm
 - [Security Alarm System](./security-alarm-system)
 
 ## About Me
-**Engineering Interests**: Semiconductor engineering, embedded systems, robotics. -----------
-**Skills**: Arduino, C/C++, Assembly, Circuit Design, Signal Processing. -----------
-**Tools**: Arduino IDE, Github, Tinkercad, oscilloscopes.
+- **Engineering Interests**: Semiconductor engineering, embedded systems, robotics.
+- **Skills**: Arduino, C/C++, Assembly, Circuit Design, Signal Processing.
+- **Tools**: Arduino IDE, Github, Tinkercad, oscilloscopes.
 
 ## How to Explore
 Every project folder contains:
