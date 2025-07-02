@@ -10,9 +10,9 @@ This project is an Arduino-powered security alarm system that detects thieves an
 - Adjustable buzzer volume
 
 ## Goals
-- Build a functional and intuitive alarm system for home security.
-- Learn how to combine a multitude of circuit components, such as Ultrasonic sensor, LCD display, buzzer, and IR receiver.
-- Develop problem-solving skills in overcoming both hardware limitations and software challenges.
+- Build a functional and intuitive alarm system for home security
+- Learn how to combine a multitude of circuit components, such as Ultrasonic sensor, LCD display, buzzer, and IR receiver
+- Develop problem-solving skills in overcoming both hardware limitations and software challenges
 
 ## Hardware Used
 - Arduino Uno
@@ -38,6 +38,8 @@ This project is an Arduino-powered security alarm system that detects thieves an
 
 ## How to Use
 - Follow circuit diagram to build system as shown below
+      - [.brb file] (./security-alarm-system diagram)
+      - [.png file] (./security-alarm-system screenshot)    
 - Upload Arduino code as shown below
 - Use IR remote to arm, disarm, or silence (with password)
 - Put thief within 3 cm of Ultrasonic sensor to trigger (distance can be varied but effectiveness is not guarenteed)
