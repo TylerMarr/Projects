@@ -43,7 +43,8 @@ This project is an Arduino-powered security alarm system that detects thieves an
 - Follow circuit diagram to build system as shown below:
     - [.brd file](./security-alarm-system-diagram.brd)
     - [.png file](./security-alarm-system-screenshot.png)    
-- Upload Arduino code as shown below
+- Upload Arduino code as shown below:
+    - [.ino file](./security-alarm-system-code.ino)
 - Use IR remote to arm, disarm, or silence (with password)
 - Put thief within 3 cm of Ultrasonic sensor to trigger (distance can be varied but effectiveness is not guarenteed)
 - Change volume as desired
