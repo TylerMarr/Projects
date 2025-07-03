@@ -15,7 +15,10 @@ This project is an Arduino-powered security alarm system that detects thieves an
 - Develop problem-solving skills in overcoming both hardware limitations and software challenges
 
 ## Challenges and Solutions
-- uhhh
+- In my original design, I had two seperate pins for the buzzer and the LED, which heightened my already existing hardware limitations
+    - I connected the buzzer and LED in series and removed the LED pin so that both could be powered by the one pin, saving 8% of my Arduino's digital pin space 
+- After adding both buzzer and LED to one pin, adjusting the volume was unpredictable and would sometimes cause the LED connected in series to the buzzer to either stay completely on or stay completely off (not flash as expected)
+    - To fix this, I placed the LED in parallel with the buzzer so that the voltage drop over the LED was constant
 
 ## Hardware Used
 - Arduino Uno
