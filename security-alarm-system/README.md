@@ -24,6 +24,8 @@ This project is an Arduino-powered security alarm system that detects thieves an
     - In default mode, I had a 330 ohm resistor in parallel with two 220 ohm resistors (in series) to give me a series load of 188 ohm
     - In quiet mode, I deactivated the BJT connected to the two 220 ohm resistors, giving us a series load of 330 ohm
     - In loud mode, I activated the BJT connected straight to ground, giving us a series load of 0 ohm
+- In my rough draft of code, I had inadvertently used so many delays that whenever I clicked anything on my IR remote it would freeze my buzzer/LED setup in place until the delays ran out
+    - I employed non-blocking logic using millis() to determine when the LED would flash rather than delays so that the IR signals could be decoded without interrupting my buzzer/LED setup
 
 ## Hardware Used
 - Arduino Uno
