@@ -59,6 +59,10 @@ This project is an Arduino-powered security alarm system that detects thieves an
 - Put thief within 3 cm of Ultrasonic sensor to trigger (distance can be varied but effectiveness is not guarenteed)
 - Change volume as desired
 
+## Demo
+- [.jpg file](./security-alarm-system-photo.jpg)
+- [.mov file](./security-alarm-system-video.mov)
+
 ## Testing
 - Ultrasonic sensor is accurate to 3 cm of detection
 - IR receiver detects every button press flawlessly with no repeats or missed inputs
