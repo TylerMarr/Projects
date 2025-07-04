@@ -61,7 +61,7 @@ This project is an Arduino-powered security alarm system that detects thieves an
 
 ## Demo
 - [.jpg file](./security-alarm-system-photo.jpg)
-- [.mov file]([./security-alarm-system-video.mov](https://drive.google.com/file/d/1eLhSuEZzzH66rIVZX1kGfWxCL8QfL3Va/view?usp=drive_link))
+- [.mov file, must download off GitHub to view](./security-alarm-system-video.mov)
 
 ## Testing
 - Ultrasonic sensor is accurate to 3 cm of detection
