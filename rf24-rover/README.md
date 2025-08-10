@@ -45,8 +45,7 @@ This project is an Arduino-powered rover, driven by DC motors and controlled via
   
 ## How to Use
 - Follow circuit diagram to build system as shown below:
-    - [.brd file](./security-alarm-system-diagram.brd)
-    - [.png file](./security-alarm-system-screenshot.png)    
+    [.jpg file](./rf24-rover-photo.jpg)    
 - Upload Arduino code as shown below:
     - [Car .ino file](./rf24-rover-car-code.ino)
     - [Joystick .ino file](./rf24-rover-car-code.ino)
@@ -54,7 +53,6 @@ This project is an Arduino-powered rover, driven by DC motors and controlled via
 - Use joystick to drive motors forward and backward as desired
 
 ## Demo
-- [.jpg file](./rf24-rover-photo.jpg)
 - [.mp4 file](./rf24-rover-video.mp4)
 
 ## Testing
