@@ -55,14 +55,15 @@ This project is an Arduino-powered rover, driven by DC motors and controlled via
     - [.brd file](./security-alarm-system-diagram.brd)
     - [.png file](./security-alarm-system-screenshot.png)    
 - Upload Arduino code as shown below:
-    - [.ino file](./security-alarm-system-code.ino)
+    - [Car .ino file](./rf24-rover-car-code.ino)
+    - [Joystick .ino file](./rf24-rover-car-code.ino)
 - Use IR remote to arm, disarm, or silence (with password)
 - Put thief within 3 cm of Ultrasonic sensor to trigger (distance can be varied but effectiveness is not guarenteed)
 - Change volume as desired
 
 ## Demo
-- [.jpg file](./security-alarm-system-photo.jpg)
-- [.mov file, must download off GitHub to view](./security-alarm-system-video.mov)
+- [.jpg file](./rf24-rover-photo.jpg)
+- [.mp4 file](./rf24-rover-video.mov)
 
 ## Testing
 - Ultrasonic sensor is accurate to 3 cm of detection
