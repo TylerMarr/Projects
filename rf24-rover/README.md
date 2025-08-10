@@ -63,7 +63,7 @@ This project is an Arduino-powered rover, driven by DC motors and controlled via
 
 ## Demo
 - [.jpg file](./rf24-rover-photo.jpg)
-- [.mp4 file](./rf24-rover-video.mov)
+- [.mp4 file](./rf24-rover-video.mp4)
 
 ## Testing
 - Ultrasonic sensor is accurate to 3 cm of detection
